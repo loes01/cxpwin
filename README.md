@@ -1,2 +1,2 @@
 # cxpwin
-cxp windows
+cxp for windows
